@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Lora:ital@1&display=swap');
+
+@import url("components/Container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body{
+	font-family: 'Comfortaa',cursive;
+	font-size:15px;
+
+    
+}
+h1,h2,h3 {
+	font-family: 'Lora', serif;
+	font-weight:bold;
+
+}
+a{
+	text-decoration:none;
+}
